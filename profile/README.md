@@ -44,6 +44,16 @@ or Firebase artefact), `nijatva-design` (icons and templates) and
 - APKs: the releases page of each repository
 - No Play Store, no F-Droid listing yet. Distribution is an APK.
 
+## The name and the icon
+
+The code is Apache-2.0. You can use it, change it and ship it, including inside a
+closed-source app, as long as you keep the licence and say what you changed.
+
+The **name "Nijatva" and the app icons are not covered by that licence.** A fork
+must use its own name and its own icon, so that a user can tell which app they
+are installing. Nothing stops a fork from existing; it just cannot pretend to be
+this one.
+
 ## Contact
 
 Vasudev.work@rediffmail.com
