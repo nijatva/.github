@@ -31,10 +31,15 @@ time, and every repository says which state it is in.
 Some of these are debug builds; the release page for each app says so. Release
 signing is being set up.
 
-The other sixteen apps — Calculator, Clock, Notes, QR Scanner, Files, Recorder,
-PDF Viewer, Device Info, Weather, Calendar, Expenses, Tasks, RSS Reader, Vault,
-Keyboard, Launcher, App Manager — are planned, and the [website](https://nijatva.github.io/apps.html)
-says so in a table rather than in adjectives.
+[Files](https://github.com/nijatva/nijatva-file) and
+[Notes](https://github.com/nijatva/nijatva-notes) have repositories without a
+release yet.
+
+The other fifteen apps — Calculator, Clock, QR Scanner, Recorder, PDF Viewer,
+Device Info, Weather, Calendar, Expenses, Tasks, RSS Reader, Vault, Keyboard,
+Launcher, App Manager — are planned, and the
+[website](https://nijatva.github.io/apps.html) says so in a table rather than in
+adjectives.
 
 ## The foundation
 
