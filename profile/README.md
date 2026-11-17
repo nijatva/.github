@@ -40,7 +40,7 @@ or Firebase artefact), `nijatva-design` (icons and templates) and
 
 ## Where to get the apps
 
-- Website and full status: <https://vasudev-work.github.io>
+- Website and full status: <https://nijatva.github.io>
 - APKs: the releases page of each repository
 - No Play Store, no F-Droid listing yet. Distribution is an APK.
 
